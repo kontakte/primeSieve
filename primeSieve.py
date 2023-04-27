@@ -44,5 +44,5 @@ while currentMax <= max:
   if currentMax > max:
     currentMax = max
 
-#for i in results:
-#  print i
+for i in results:
+  print(i)
